@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="abd8ad8e-fdda-4155-b784-3283ee4d44a8" name="Demo Sites" url="http://52.193.31.189">
+        <fileTransfer host="52.193.31.189" port="5053" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="5053" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
